@@ -8,4 +8,4 @@ function getData()
     console.log("Namaste Java Script");
 }
 getData()
-console.log(S)
+console.log(S) 
